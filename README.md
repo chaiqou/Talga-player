@@ -1,3 +1,1 @@
-Full responsive music player.
-Used technologies Sass and React.
-Link => https://react-app-3025d.web.app/
+This project is a simple and fully responsive music player built using Sass and React. It allows users to play, pause, skip forward or backward currently selected song. The player has been designed with a minimalist aesthetic and is easy to use.
